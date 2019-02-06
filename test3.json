@@ -1,0 +1,21 @@
+{
+    "edges": [
+        { "source": "n1", "target": "n2", "id": "e1" },
+        { "source": "n1", "target": "n3", "id": "e2" },
+        { "source": "n1", "target": "n4", "id": "e3" },
+        { "source": "n1", "target": "n6", "id": "e4" },
+        { "source": "n1", "target": "n7", "id": "e5" },
+        { "source": "n2", "target": "n4", "id": "e6" },
+        { "source": "n2", "target": "n5", "id": "e7" },
+        { "source": "n2", "target": "n7", "id": "e8" }
+    ],
+    "nodes": [
+	{ "label": "one", "id": "n1", "color": "red", "size": "3.0", "x": 0.1, "y": 0.2 },
+	{ "label": "two", "id": "n2", "color": "red", "size": "3.0", "x": 0.3, "y": 0.6 },
+	{ "label": "three", "id": "n3", "color": "red", "size": "3.0", "x": 0.4, "y": 0.2 },
+	{ "label": "four", "id": "n4", "color": "red", "size": "3.0", "x": 0.5, "y": 0.3 },
+	{ "label": "five", "id": "n5", "color": "red", "size": "3.0", "x": 0.6, "y": 0.6 },
+	{ "label": "six", "id": "n6", "color": "red", "size": "3.0", "x": 0.7, "y": 0.1 },
+	{ "label": "seven", "id": "n7", "color": "red", "size": "3.0", "x": 0.8, "y": 0.8 }
+    ]
+}
